@@ -1,0 +1,108 @@
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\TCC\VisualS\TCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Cmd\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Final\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\IFES TCC\FUNCIONA\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+E:\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.exe
+E:\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.pdb
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC.mdf
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\DatabaseTCC_log.ldf
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe.config
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.exe
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\TCC.pdb
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\bin\Debug\CommandMessenger.dll
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Form1.resources
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.exe
+C:\Users\icaro\Desktop\Icaro\IFES TCC\coelho\StudioTCC\FormTCC\obj\Debug\TCC.pdb

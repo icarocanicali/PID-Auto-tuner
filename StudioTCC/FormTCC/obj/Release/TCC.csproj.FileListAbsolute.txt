@@ -1,0 +1,11 @@
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Release\TCC.exe.config
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Release\DatabaseTCC.mdf
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Release\DatabaseTCC_log.ldf
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Release\TCC.exe
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\bin\Release\TCC.pdb
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.Form1.resources
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.Properties.Resources.resources
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.csproj.GenerateResource.Cache
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.exe
+C:\Users\Icaro\Desktop\Backup\VisualS\TCC\obj\Release\TCC.pdb
